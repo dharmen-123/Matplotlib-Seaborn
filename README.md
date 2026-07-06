@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Python Data Visualization Roadmap
 
 <div align="center">
@@ -592,4 +592,4 @@ Feel free to use it for learning, teaching, and personal projects.
 ⭐ Star the repository if you found it useful.
 
 </div>
-````
+
