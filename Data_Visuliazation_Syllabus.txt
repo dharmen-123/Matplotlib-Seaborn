@@ -1,0 +1,203 @@
+
+    ****** Part 1: Matplotlib ****** 
+Module 1: Introduction
+        What is Matplotlib?
+        Why use Matplotlib?
+        Installation
+        Importing matplotlib
+        pyplot module
+        Figure vs Axes
+        Plotting workflow
+Module 2: Basic Plots
+        Line Plot
+        Basic line plot
+        Multiple lines
+        Different colors
+        Different line styles
+        Line width
+        Markers
+        Marker size
+        Marker color
+        Scatter Plot
+        Basic scatter plot
+        Bubble chart
+        Different colors
+        Different sizes
+        Bar Plot
+        Vertical bar
+        Horizontal bar
+        Grouped bar chart
+        Stacked bar chart
+        Histogram
+        Frequency distribution
+        Number of bins
+        Density histogram
+        Pie Chart
+        Labels
+        Explode
+        Colors
+        Shadow
+        Percentage
+Module 3: Plot Customization
+        Title
+        X-axis label
+        Y-axis label
+        Font size
+        Font style
+        Font weight
+        Axis limits
+        Axis ticks
+        Tick labels
+        Grid
+        Legend
+        Background color
+Module 4: Figure Customization
+        Figure size
+        DPI
+        Face color
+        Edge color
+        Layout adjustment
+        Tight layout
+        Module 5: Multiple Plots
+        subplot()
+        subplots()
+        Multiple rows
+        Multiple columns
+        Shared axes
+        Nested plots
+Module 6: Advanced Axes
+        Twin axis
+        Secondary axis
+        Log scale
+        Polar plot
+        Broken axis
+Module 7: Styling
+        Built-in styles
+        Dark background
+        ggplot style
+        fivethirtyeight
+        Custom styles
+        Module 8: Colors
+        Named colors
+        HEX colors
+        RGB colors
+        Colormaps
+        Color palettes
+Module 9: Text and Annotation
+        plt.text()
+        plt.annotate()
+        Arrow annotation
+        Highlight important values
+Module 10: Images
+        Display image
+        Read image
+        Save image
+        Image interpolation
+Module 11: Saving Figures
+        PNG
+        JPG
+        PDF
+        SVG
+        High resolution export
+Module 12: Object-Oriented API
+        Figure
+        Axes
+        Axis
+        Why OO API is preferred
+        Multiple axes
+Module 13: 3D Plotting
+        3D Line
+        3D Scatter
+        3D Surface
+        Wireframe
+        Contour
+Module 14: Statistical Charts
+        Error bars
+        Box plot
+        Violin plot
+        Stem plot
+        Event plot
+Module 15: Real Dataset Practice
+        Sales Dashboard
+        IPL Dataset
+        Netflix Dataset
+        Spotify Dataset
+        Superstore Dataset
+        Titanic Dataset
+
+        ****** Part 2: Seaborn ****** 
+
+Module 1: Introduction
+        What is Seaborn?
+        Difference between Matplotlib and Seaborn
+        Built-in datasets
+        Themes
+Module 2: Relational Plots
+        scatterplot()
+        lineplot()
+        relplot()
+Module 3: Distribution Plots
+        histplot()
+        kdeplot()
+        displot()
+        ecdfplot()
+        rugplot()
+Module 4: Categorical Plots
+        barplot()
+        countplot()
+        boxplot()
+        violinplot()
+        stripplot()
+        swarmplot()
+        pointplot()
+        catplot()
+Module 5: Matrix Plots
+        Heatmap
+        Correlation Heatmap
+        Confusion Matrix
+        Clustermap
+Module 6: Regression Plots
+        regplot()
+        lmplot()
+        Residual Plot
+Module 7: Pairwise Visualization
+        pairplot()
+        PairGrid
+Module 8: Faceting
+        FacetGrid
+        Row facets
+        Column facets
+        Hue
+Module 9: Joint Distribution
+        jointplot()
+        JointGrid
+Module 10: Color Management
+        Color palettes
+        Sequential palette
+        Diverging palette
+        Qualitative palette
+        Cubehelix palette
+Module 11: Themes
+        white
+        dark
+        ticks
+        whitegrid
+        darkgrid
+Module 12: Advanced Customization
+        Figure size
+        Fonts
+        Legends
+        Titles
+        Labels
+        Themes
+Module 13: Statistical Visualization
+        Confidence Interval
+        Mean estimation
+        Bootstrapping
+        Error bars
+Module 14: Real-world Dashboards
+        E-commerce Dashboard
+        HR Analytics Dashboard
+        Sales Dashboard
+        Healthcare Dashboard
+        Financial Dashboard
