@@ -497,7 +497,7 @@ Images/
 
 You can display screenshots like:
 
-```markdown
+
 ## Repository Preview
 
 | Matplotlib | Seaborn |
@@ -507,7 +507,6 @@ You can display screenshots like:
 | Plotly | Cufflinks |
 |---------|------------|
 | ![](Images/dashboard.png) | ![](Images/plotly_chart.png) |
-```
 
 ---
 
